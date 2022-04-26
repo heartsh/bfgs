@@ -1,5 +1,5 @@
 [package]
-name = "bfgs"
+name = "my-bfgs"
 description = "A pure Rust implementation of the BFGS optimization algorithm"
 readme = "README.md"
 version = "0.1.0"
