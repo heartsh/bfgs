@@ -9,7 +9,7 @@
 //! In this example, we minimize a 2d function:
 //!
 //! ```rust
-//! extern crate bfgs;
+//! extern crate my_bfgs as bfgs;
 //! extern crate ndarray;
 //!
 //! use ndarray::{Array, Array1};
